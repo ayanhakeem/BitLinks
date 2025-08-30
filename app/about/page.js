@@ -70,7 +70,7 @@ export default function AboutPage() {
             Create a short link
           </Link>
           <Link
-            href="/docs"
+            href="https://www.geeksforgeeks.org/system-design/system-design-url-shortening-service/"
             className="rounded-2xl border border-gray-300 px-5 py-2.5 text-gray-800 transition hover:bg-gray-50"
           >
             Read the docs
